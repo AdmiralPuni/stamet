@@ -1,0 +1,2 @@
+# stamet
+ Standard Management Template
